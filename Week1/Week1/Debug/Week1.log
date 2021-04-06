@@ -1,5 +1,0 @@
-﻿D:\VS\New folder\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Week1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  CPoint2D.cpp
-  Source.cpp
-  Generating Code...
-  Week1.vcxproj -> D:\OOP\Thuc Hanh\Week1\Debug\Project1.exe
