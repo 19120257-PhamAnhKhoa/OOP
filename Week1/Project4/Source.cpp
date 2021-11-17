@@ -40,5 +40,6 @@ int main()
 	cout << "Mang sau khi sap xep theo thu tu giam dan:" << endl;
 	arr.sortDes();
 	arr.Xuat();
+	cout << "Fuck me";
 	return 0;
 }
