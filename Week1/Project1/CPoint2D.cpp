@@ -6,6 +6,7 @@ void CPoint2D::Nhap()
 	cin >> x;
 	cout << "Nhap vao y:";
 	cin >> y;
+	cout << "hahahihi";
 }
 
 void CPoint2D::Xuat()
