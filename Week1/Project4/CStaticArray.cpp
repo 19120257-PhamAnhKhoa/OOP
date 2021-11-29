@@ -17,6 +17,7 @@ void CStaticArray::Nhap()
     {
         cout << "A[" << i << "]=";
         cin >> a[i];
+        cout<<"Hahah"
     }
 }
 
